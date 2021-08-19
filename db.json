@@ -1,0 +1,138 @@
+{
+  "user": [
+    {
+      "name": "smruti",
+      "email": "smruti@gmail.com",
+      "password": "smruti@123",
+      "id": 1
+    },
+    {
+      "name": "ambika",
+      "email": "ambika@gmail.com",
+      "password": "ambika@123",
+      "id": 2
+    },
+    {
+      "name": "sony",
+      "email": "sony@gmail.com",
+      "password": "sony@123",
+      "id": 3
+    },
+    {
+      "name": "sweet",
+      "email": "sweet@gmail.com",
+      "password": "sweet@123",
+      "id": 4
+    },
+    {
+      "name": "kajol",
+      "email": "kajol@gmail.com",
+      "password": "kajol@123",
+      "id": 5
+    },
+    {
+      "name": "kabita",
+      "email": "kabita@gmail.com",
+      "password": "kabita@123",
+      "id": 6
+    },
+    {
+      "name": "sai",
+      "email": "sai@gmail.com",
+      "password": "sai2123",
+      "id": 7
+    },
+    {
+      "name": "tony",
+      "email": "t@gmail.com",
+      "password": "tony@123",
+      "id": 11
+    },
+    {
+      "name": "smruti",
+      "email": "smruti@gmail.com",
+      "password": "smruti@123",
+      "id": 12
+    },
+    {
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "password": "abc@123",
+      "id": 13
+    },
+    {
+      "name": "smruti",
+      "email": "smruti@gmail.com",
+      "password": "smruti@123",
+      "id": 14
+    },
+    {
+      "name": "smruti",
+      "email": "smruti@gmail.com",
+      "password": "smruti@123",
+      "id": 15
+    },
+    {
+      "name": "smruti",
+      "email": "smruti@gmail.com",
+      "password": "smruti@123",
+      "id": 16
+    }
+  ],
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "dominos",
+      "address": "hyderabad",
+      "contact": 124578
+    },
+    {
+      "id": 2,
+      "name": "dominos",
+      "address": "suncity",
+      "contact": 124
+    },
+    {
+      "id": 3,
+      "name": "pizza hut",
+      "address": "toli chowki",
+      "contact": 369852
+    },
+    {
+      "name": "dominos",
+      "address": "hyderabad",
+      "contact": 124578,
+      "id": 4
+    },
+    {
+      "name": "dominos",
+      "address": "hyderabadqsqs",
+      "contact": 124578,
+      "id": 5
+    },
+    {
+      "name": "new",
+      "address": "new city",
+      "contact": "12458",
+      "id": 6
+    },
+    {
+      "name": "mahfil",
+      "address": "hitech city",
+      "contact": "369963",
+      "id": 7
+    },
+    {
+      "name": "paradise",
+      "address": "gochibali",
+      "contact": "456654",
+      "id": 8
+    },
+    {
+      "name": "KFC",
+      "address": "sector-16",
+      "contact": "125487",
+      "id": 9
+    }
+  ]
+}
